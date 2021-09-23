@@ -1,16 +1,15 @@
+//javascript breoh
 
-var valor = 20;
+var valor = 0;
 
-//if (valor > 100) {
-//  console.log("valor es grande")
-//} else {
-//  alert("putoel que lee")
-//}
+while (valor < 4) {
+  // codigo que se ejecuta de forma repetitiva hasta que ya no se cumpla la condicion
+  console.log("Valor es = " + valor);
+  console.log("valor es menor que 4, entonces le sumo 1 a la variable valor");
 
-if (valor > 100) {
-   console.log("tu señora es mayor a 100");
-} else if (valor > 50) {
-    console.log("tu señora es mayor a 50");
-}{
-  console.log("tu señora es menor a 50");
+  if (valor == 2) {
+    console.log("es igual a 2 y quiero para la ejecucion");
+    break;
+  }
+  valor = valor + 1;
 }
