@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //var objeto = {clave1: "valor1", clave2: 1234, clave3: "valor3", clave4: 321}
 
 //for (clave in objeto){
@@ -14,7 +14,7 @@ alert("esta es la funcion del objeto");
 }
 
 objeto2.metodo()
-=======
+
 //javascript breoh
 
 var valor = 0;
@@ -30,4 +30,3 @@ while (valor < 4) {
   }
   valor = valor + 1;
 }
->>>>>>> 86339bfd1f86088de8d0240736375f89e68ac93a
